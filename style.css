@@ -1,0 +1,36 @@
+body {
+  background-color: black;
+}
+header {
+  margin: 20px 0 20px 0;
+}
+h1 {
+  font-family: Verdana;
+  font-size: 40px;
+  color: white;
+  text-align: center;
+}
+
+#appLink {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+p {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+  text-align: center;
+}
+.description {
+  font-weight: 300;
+  font-size: 42px;
+  font-family: Verdana;
+}
+
+.camp {
+  margin: 20px 5px;
+}
+.copyRight {
+  text-align: right;
+}
